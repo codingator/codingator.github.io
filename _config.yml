@@ -33,7 +33,7 @@ github:
   username: codingator             # change to your github username
 
 twitter:
-  username: ''            # change to your twitter username
+  username: 'wogusdl1236'            # change to your twitter username
 
 social:
   name: Devz                  # it will shows as the copyright owner in Footer
@@ -46,7 +46,7 @@ social:
     # - https://www.facebook.com/wogusdl1236
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+# google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
 google_analytics:
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url

@@ -165,6 +165,9 @@ exclude:
   - package.json
   - package-lock.json
 
+gems:
+- jekyll-seo-tag
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:

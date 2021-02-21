@@ -29,8 +29,8 @@ url: 'https://codingator.github.io'
 
 author: Lee Jaehyeon                  # change to your full name
 
-github:
-  username: codingator             # change to your github username
+# github:
+#   username: codingator             # change to your github username
 
 twitter:
   username: wogusdl1236            # change to your twitter username
